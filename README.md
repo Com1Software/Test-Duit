@@ -1,4 +1,5 @@
-# Test-Duit
+# Test for Golang UI
 
-duit - developer ui toolkit
-[mjl-/duit](https://github.com/mjl-/duit)
+[AllenDang/gform](https://github.com/AllenDang/gform)
+
+https://github.com/AllenDang/gform
