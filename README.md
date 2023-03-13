@@ -1,5 +1,3 @@
 # Test for Golang UI
 
-[AllenDang/gform](https://github.com/AllenDang/gform)
-
-https://github.com/AllenDang/gform
+[go-graphics/go-gui-projects](https://github.com/go-graphics/go-gui-projects)
